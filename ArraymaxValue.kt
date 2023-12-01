@@ -9,7 +9,7 @@ fun main(args: Array<String>) {
     val c = read.nextInt()
     val d = read.nextInt()
 
-    var array = intArrayOf("$a","$b","$c","$d")
+    //var array = intArrayOf("$a","$b","$c","$d")
 
         //println(array.MAX_VALUE)
 }
